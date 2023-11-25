@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stika Github</string>
+    <string name="empty_data">For some reason, we could\'t load 😓</string>
+    <string name="search_user">Search user</string>
+    <string name="fetch_data">Fetching Data</string>
+    <string name="follower">Follower : %s</string>
+    <string name="following">Following : %s</string>
+    <string name="about">About</string>
+    <string name="name">Rahman Pambekti</string>
+    <string name="email">rhbekti.ac.id@gmail.com</string>
+    <string name="detail_user">Detail User</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_favorite_user">No favorite users 😓</string>
+    <string name="load_data">Load Data</string>
+</resources>
